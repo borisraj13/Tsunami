@@ -4,7 +4,7 @@ head(data)
 dim(data)
 
 mydata <- subset(data, select = c(1:4,9:12,17:19))
-mydata <- subset(mydata, mydata$YEAR>2000)
+mydata <- subset(mydata, mydata$YEAR>1999)
 View(mydata)
 
 n <- table(mydata$YEAR)
