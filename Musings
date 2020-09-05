@@ -1,0 +1,14 @@
+Used database: tsunami_dataset
+Source: https://www.kaggle.com/andrewmvd/tsunami-dataset
+
+Dataset contains: 2259 Entries, 21 Coloumns
+
+Subset the data to Tsunamis after 1999, i.e. Year 2000 and onwards.
+
+Bar plot for Frequecy of each Year.
+
+Pie Chart for Frequecy of each Region.
+
+Year with highest Frequecy: 2017, 18 entries.
+
+Most Frequest Region: New Caledonia, New Guinea, Solomon Is., Vanuatu, 49 Enteries. 
